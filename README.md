@@ -1,7 +1,7 @@
 ### Hey there, I'm SSALI Kevin 👋
 
 - 🇺🇬 Ugandan | 23 years old
-- 🎓 1st Year Computer Science student
+- 🎓 2nd Year Computer Science student
 - 🐍 Python & ☕ Java enthusiast
 - 🛡️ Aspiring Cybersecurity Specialist
 - 💻 Currently learning:
