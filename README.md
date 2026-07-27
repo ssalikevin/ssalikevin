@@ -1,11 +1,12 @@
 Hey there, I'm SSALI KEVIN
 
-- Ugandan | 24 years old
-- 🎓 2nd Year Computer Science student
+- Ugandan | 25 years old
+- 🎓 3rd Year Computer Science student
 - 🐍 Python enthusiast
-- 🛡️ Aspiring Cybersecurity Specialist
+- 🛡️ Aspiring Cybersecurity Analyst
 - 💻 Currently learning:
   - Python & Networking
-  - Cybersecurity labs on Hack The Box (HTB)
-- 📚 Passionate about ethical hacking, simulation, and solving real-world problems
+  - Forensics Skills
+  - Cybersecurity labs on CyLab Security Academy (PicoCTF)
+- 📚 Passionate about Systems Analysis, simulations, and solving real-world problems
 - 📫 Reach me: ssalikevin515@gmail.com  
